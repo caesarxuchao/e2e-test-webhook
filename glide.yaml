@@ -1,0 +1,6 @@
+package: github.com/caesarxuchao/e2e-test-webhook
+import:
+- package: k8s.io/client-go
+  version: kubernetes-v1.8.0
+- package: k8s.io/api
+  version: kubernetes-v1.8.0
